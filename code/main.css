@@ -1,0 +1,43 @@
+/*. {
+	font-family: arial;
+	font-size: 14px;
+}*/
+/*#main {
+	width: 100%;
+}*/
+/*.dong {
+	width: 100px;
+	background-color: #678AFB;
+}*/
+.d0 {
+	background-color: #267E26;
+	color: #FFFFFF;
+}
+.d1 {
+	background-color: #F4F672;
+	}
+.d2 {
+	background-color: #ACDDF9;	
+}
+.d3{
+	background-color: #F8F9BA;
+	
+}
+.d0,
+.d1,
+.d2,
+.d3 {
+	font-family: arial;
+	font-size: 14px;
+	text-align: center;
+	font-weight: bold;
+}
+h1 {
+	font-size: 15px;
+	font-family: arial;
+	color: #0000FF;
+	font-weight: bold;
+}
+.color {
+	color: #FF0000;
+}
