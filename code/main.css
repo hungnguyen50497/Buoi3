@@ -41,3 +41,6 @@ h1 {
 .color {
 	color: #FF0000;
 }
+table {
+	border-collapse: collapse;
+}
